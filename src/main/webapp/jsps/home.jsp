@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1>  I'M Manisha From Kothapallem </h1> </marquee>
+<marquee> <h1>  I'M Manisha From Kothapallem </h1> </marquee>
     <h3>Cooking | Slepping | playing</h3>
 </header>
 
