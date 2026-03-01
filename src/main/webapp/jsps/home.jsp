@@ -15,7 +15,7 @@
     }
     header {
         background: linear-gradient(90deg, #007bff, #00c6ff);
-        color: red;
+        color: yellow;
         padding: 20px;
         text-align: center;
     }
@@ -33,7 +33,7 @@
     footer {
         margin-top: 30px;
         background: #222;
-        color: red;
+        color: green;
         padding: 15px;
         text-align: center;
     }
