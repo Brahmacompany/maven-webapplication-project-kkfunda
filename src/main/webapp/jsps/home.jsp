@@ -15,7 +15,7 @@
     }
     header {
         background: linear-gradient(90deg, #007bff, #00c6ff);
-        color: black;
+        color: red;
         padding: 20px;
         text-align: center;
     }
@@ -23,7 +23,7 @@
         margin: 10px 0;
     }
     .info-card {
-        background: black;
+        background: red;
         border-radius: 10px;
         box-shadow: 0px 4px 6px rgba(0,0,0,0.1);
         padding: 20px;
@@ -33,7 +33,7 @@
     footer {
         margin-top: 30px;
         background: #222;
-        color: black;
+        color: red;
         padding: 15px;
         text-align: center;
     }
